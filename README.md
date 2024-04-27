@@ -1,5 +1,5 @@
 ```man
-lucasherediadv(1)           General Commands Manual           lucasherediadv(1)
+lucasherediadv(1)                   General Commands Manual                     lucasherediadv(1)
 
 
 NAME
@@ -9,10 +9,6 @@ NAME
 DESCRIPTION
         lucasherediadv is a self-aware program intrested in Linux systems,
         command line interfaces and task automation.
-
-
-SYNOPSIS
-        lucasherediadv [options...] [command]
 
 
 OPTIONS
@@ -31,10 +27,5 @@ BUGS
         the best way to do something.
 
 
-AUTHOR
-        As of release 18.0, lucasherediadv has become self managed and no longer
-        requires an active mantainer.
-
-
-                                                              lucasherediadv(1)
+                                                                                lucasherediadv(1)
 ```
