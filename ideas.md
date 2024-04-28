@@ -14,16 +14,13 @@ DESCRIPTION
 
 OPTIONS
         -l, --languages
-            Go, Bash, Python
+            Go, Bash, Python, JavaScript
 
         -t, --tools
             Git, VIM, Tmux
         
         -os, --operating-systems
             Fedora, Ubuntu, Windows
-
-        -c --contact
-            <a href="https://github.com/lucasherediadv">Linkedin</a>
 
 
 BUGS
@@ -40,7 +37,7 @@ AUTHORS
         As of release 18.0, lucasherediadv has become self managed and
         no longer needs an active maintainer.
 
-       
+    
 
                                                        lucasherediadv(1)
 </code></pre>
