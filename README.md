@@ -17,7 +17,7 @@ OPTIONS
             Go, Bash, Python, JavaScript
 
         -t, --tools
-            Git, VIM, Tmux
+            Git, Docker
         
         -os, --operating-systems
             Fedora, Ubuntu, Windows
