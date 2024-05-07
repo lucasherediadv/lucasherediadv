@@ -33,11 +33,6 @@ SEE ALSO
         To see some examples of what lucasherediadv can do.
 
 
-AUTHORS
-        As of release 18.0, lucasherediadv has become self managed and
-        no longer needs an active maintainer.
-
-    
 
                                                        lucasherediadv(1)
 </code></pre>
