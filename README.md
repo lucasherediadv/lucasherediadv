@@ -14,7 +14,7 @@ DESCRIPTION
 
 OPTIONS
         -l, --languages
-            Go, Bash, Python, JavaScript
+            Go, Bash, Python
 
         -t, --tools
             Git, Docker
