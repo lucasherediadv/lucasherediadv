@@ -1,38 +1,28 @@
 <pre><code>
-lucasherediadv(1)       General Commands Manual        lucasherediadv(1)
+lhdv(1)                 General Commands Manual                  lhdv(1)
 
 
 
 NAME
-        lucasherediadv - Lucas Heredia
+        lhdv - lucasherediadv
 
 
 DESCRIPTION
-        lucasherediadv is a self-aware program intrested in Linux
-        systems, command line interfaces and task automation.
-
-
-OPTIONS
-        -l, --languages
-            Go, Bash, Python
-
-        -t, --tools
-            Git, Docker
-        
-        -os, --operating-systems
-            Fedora, Ubuntu, Windows
+        Self-aware program intrested in Linux systems,
+        command line interfaces and task automation. Lhdv can
+        write code in some languages including Go, Bash and Python.
 
 
 BUGS
-        Sometimes lucasherediadv can spend more time than neccesary
+        Sometimes lhdv can spend more time than neccesary
         trying to find the best way to do something.
 
 
 SEE ALSO
-        <a href="https://github.com/lucasherediadv?tab=repositories">lucasherediadv-projects(1)</a> 
-        To see some examples of what lucasherediadv can do.
+        <a href="https://github.com/lucasherediadv?tab=repositories">lhdv-projects(1)</a> 
+        To see some examples of what lhdv can do.
 
 
 
-                                                       lucasherediadv(1)
+                                                                 lhdv(1)
 </code></pre>
