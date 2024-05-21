@@ -9,7 +9,7 @@ NAME
 
 DESCRIPTION
         Self-aware program intrested in Linux systems,
-        command line interfaces and task automation. Lhdv can
+        command line interfaces and task automation. He can
         write code in some languages including Go, Bash and Python.
 
 
