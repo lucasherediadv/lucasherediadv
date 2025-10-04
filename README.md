@@ -1,3 +1,3 @@
 ## Lucas Heredia
 
-Intrested in Linux systems, command line interfaces and task automation.
+Interested in Linux systems, command line interfaces and task automation.
